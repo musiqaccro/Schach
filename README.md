@@ -1,0 +1,2 @@
+# Schach
+Chess-related repository
